@@ -1,4 +1,4 @@
 Colocalisation
 ==============
 
-Script to calculate colocalisation of microscope data
+Script to calculate colocalisation of microscope data.
